@@ -29,3 +29,7 @@ $ gem list | grep rmagick
 rmagick (2.16.0)
 ```
 
+### 素材リンク
+
+- フォント
+    - [あんずいろapricot×colorフリー写真素材・手書きフォント・人物写真素材](http://www8.plala.or.jp/p_dolce/)
