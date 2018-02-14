@@ -1,8 +1,8 @@
 # handson_rmagick
 
-質問箱のような動的に質問票（画像）を生成することを目標として、[rmagick](https://github.com/rmagick/rmagick)をさわる。
+SarahahやPeingといったサービスでよく見られる質問票（画像）を生成することを目標として、[rmagick](https://github.com/rmagick/rmagick)をさわる。
 
-### 動作環境
+## 動作環境
 
 環境構築は、[macOS に RMagick をインストールする - Qiita](https://qiita.com/niwasawa/items/1144f20a9f2de4b76977)を参考にしている。
 
@@ -29,7 +29,15 @@ $ gem list | grep rmagick
 rmagick (2.16.0)
 ```
 
-### 素材リンク
+## やってみたこと
+
+SarahahやPeingっぽい素材を用意し、これにテキストを埋め込んでみた。
+
+|埋め込み前素材|埋め込み後画像|
+|---|---|
+|![埋め込み前素材](https://github.com/rkonno/handson_rmagick/blob/master/img/message_card.png?raw=true)|![文字埋込後](https://github.com/rkonno/handson_rmagick/blob/master/export/char_insertion.png?raw=true)|
+
+## 素材リンク
 
 - フォント
     - [あんずいろapricot×colorフリー写真素材・手書きフォント・人物写真素材](http://www8.plala.or.jp/p_dolce/)
