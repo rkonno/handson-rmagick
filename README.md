@@ -31,13 +31,33 @@ rmagick (2.16.0)
 
 ## やってみたこと
 
-SarahahやPeingっぽい素材を用意し、これにテキストを埋め込んでみた。
+### 画像に任意のテキストを合成
+
+SarahahやPeingっぽい素材を用意し、これにテキストを埋め込んだ。
 
 |埋め込み前素材|埋め込み後画像|
 |---|---|
 |![埋め込み前素材](https://github.com/rkonno/handson_rmagick/blob/master/img/message_card.png?raw=true)|![文字埋込後](https://github.com/rkonno/handson_rmagick/blob/master/export/char_insertion.png?raw=true)|
 
+### 画像を丸くマスキング
+
+スクエア型の画像を、丸くマスキングした。
+
+|マスキング前素材|マスキング後画像|
+|---|---|
+|  |  |
+
+### 素材画像に任意の画像を合成
+
+「画像に任意のテキストを合成」＋「マスキングした画像を合成」
+
+|合成前素材|合成後後画像|
+|---|---|
+|  |  |
+
+
 ## 素材リンク
 
 - フォント
     - [あんずいろapricot×colorフリー写真素材・手書きフォント・人物写真素材](http://www8.plala.or.jp/p_dolce/)
+- 素材画像
