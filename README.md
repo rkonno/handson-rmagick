@@ -39,21 +39,21 @@ SarahahやPeingっぽい素材を用意し、これにテキストを埋め込�
 |---|---|
 |![埋め込み前素材](https://github.com/rkonno/handson_rmagick/blob/master/img/message_card.png?raw=true)|![文字埋込後](https://github.com/rkonno/handson_rmagick/blob/master/export/char_insertion.png?raw=true)|
 
-### 画像を丸くマスキング
+### 画像を小さくリサイズ＆丸くマスキング
 
-スクエア型の画像を、丸くマスキングした。
+スクエア型の画像を、小さくリサイズし、丸くマスキングした。
 
 |マスキング前素材|マスキング後画像|
 |---|---|
-|  |  |
+| ![マスキング前素材](https://github.com/rkonno/handson_rmagick/blob/master/img/thumbnail.jpg?raw=true) | ![マスキング後画像](https://github.com/rkonno/handson_rmagick/blob/master/export/resized_thumb.png?raw=true) |
 
 ### 素材画像に任意の画像を合成
 
 「画像に任意のテキストを合成」＋「マスキングした画像を合成」
 
-|合成前素材|合成後後画像|
+|合成前素材|合成後画像|
 |---|---|
-|  |  |
+| ![合成前素材](https://github.com/rkonno/handson_rmagick/blob/master/img/message_card_ver2.png?raw=true) | ![合成後画像](https://github.com/rkonno/handson_rmagick/blob/master/export/char_and_image_insertion.png?raw=true) |
 
 
 ## 素材リンク
